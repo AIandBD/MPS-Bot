@@ -61,7 +61,7 @@ If you use our algorithms in your research, please cite the following papers as 
 
 @inproceedings{li2026unmasking,  
   &emsp;&emsp;title={{U}nmasking {B}ots in {H}igher {D}imensions: {M}essage {P}assing over {S}implexes for {B}ot {D}etection},  
-  &emsp;&emsp;author={Li Fangfang and Zhang Huihui and Zhang Xin and Wu Wei},  
+  &emsp;&emsp;author={Li Fangfang, Zhang Huihui, Zhang Xin and Wu Wei},  
   &emsp;&emsp;booktitle={WWW},  
   &emsp;&emsp;pages={4713--4721},  
   &emsp;&emsp;year={2026}  
